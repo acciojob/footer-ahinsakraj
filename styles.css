@@ -1,1 +1,48 @@
-/* your code here */
+.content{
+	background-color:black;
+	height:350px;
+	color:white;
+}
+.top{
+	color:white;
+	padding:25px;
+	font-size:30px;
+	display:flex;
+	justify-content:space-between;
+}
+.media-icons{
+	display:flex;
+	gap:15px;
+}
+.link-boxes{
+	display:flex;
+	justify-items:center;
+}
+.links{
+	display:flex;
+	flex-direction:column;
+}
+li{
+	list-style-type:none;
+	color:lightgrey;
+	padding:4px;
+}
+.bottom-details{
+	background-color:grey;
+	padding:1px;
+}
+#bottom{
+	background-color:#36454F;
+	margin-bottom:0px;
+	height:50px;
+	color:lightgrey;
+	display:flex;
+	gap:220px;
+}
+p{
+	margin-left:60px;
+}
+.container3{
+	margin-top:10vh;
+}
+	
